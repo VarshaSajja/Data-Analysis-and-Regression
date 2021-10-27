@@ -1,1 +1,8 @@
-# Data-Analysis-and-Regression
+# Analysis on COVID-19 Vaccination
+**Introduction**
+
+In the era of global pandemic, tracking COVID-19 vaccination rates is crucial to understand the scale of protection against the virus. This project deals with real-time data on covid-vaccination progress and analyzes how vaccinations have been distributed to the global population using statistical regression analysis techniques. The data from Pfizer and BioNTech pharmaceutical companies is being used for the study. Construction and validation of various regression models on dataset with respect to independent variables is provided in each member’s point of view. A computer-based tool RStudio is used for calculations in this statistical project. The final model is selected by testing with Stepwise Regression methods. A linear regression line and equation for the model are generated to help observe and predict new deaths or increase in rate of total deaths due to virus over various locations in the world. The model also shows which variables play the most important roles in the prediction.
+
+**Conclusion**
+
+This analysis has explored the relationship that vaccination numbers have with other potential explanatory variables. The results suggest that overtime, more vaccinations are being administered at a significant rate. Additionally, the results infer that the number of deaths from the corona virus has a relationship with the number of vaccines given. These results hint at the idea that nations that are hardest hit by the virus might be the places that will eventually give out the most vaccinations over time. Still, we need more data to definitively make that claim. In future studies, exploring how well individual countries are doing in the vaccination race and comparing them would be an interesting way to test this claim.
